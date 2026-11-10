@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Rudy Rodriguez
 
 ## path-2
 The cliff trail is narrow, and the wind shoves at you like it wants you gone. Far below, waves smash white against the rocks.
